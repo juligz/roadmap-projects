@@ -30,7 +30,7 @@ The goal is to create a **single-page CV (Curriculum Vitae)** using only HTML (w
 
 ```bash
 # Clone the repository
-git clone https://github.com/TU_USUARIO/roadmap-projects.git
+git clone https://github.com/juligz/roadmap-projects.git
 
 # Navigate to the project folder
 cd roadmap-projects/frontend/single-page-cv
