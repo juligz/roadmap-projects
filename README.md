@@ -22,9 +22,9 @@ This repository serves as my **practice portfolio**, where I apply different tec
 ## 📑 Project Index
 
 ### 🖌 Frontend
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Single Page CV](https://roadmap-cv.netlify.app) | Single-page CV optimized for SEO and social media. | HTML, CSS |
+| Project | Deploy Project | Description | Technologies |
+|---------|----------------|-------------|--------------|
+| [Frontend/01-Single-Page-CV](./frontend/01-single-page-cv) | [Single Page CV](https://roadmap-cv.netlify.app) | Single-page CV optimized for SEO and social media. | HTML, CSS |
 
 ### ⚙ Backend
 | Project | Description | Technologies |
