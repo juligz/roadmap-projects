@@ -22,7 +22,7 @@ The goal is to create a **single-page CV (Curriculum Vitae)** using only HTML (w
 
 ## 🌐 Live Demo
 
-👉 [View CV on Netlify](https://roadmap-cv.netlify.app/images/preview.jpg)  
+👉 [View CV on Netlify](https://roadmap-cv.netlify.app/)  
 
 ---
 
