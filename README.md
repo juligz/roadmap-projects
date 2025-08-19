@@ -24,7 +24,7 @@ This repository serves as my **practice portfolio**, where I apply different tec
 ### 🖌 Frontend
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| https://roadmap-cv.netlify.app | Single-page CV optimized for SEO and social media. | HTML, CSS |
+| https://page-cv.netlify.app/ | Single-page CV optimized for SEO and social media. | HTML, CSS |
 
 ### ⚙ Backend
 | Project | Description | Technologies |
