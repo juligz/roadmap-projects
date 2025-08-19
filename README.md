@@ -17,7 +17,7 @@ It serves as my **practice portfolio**, where I apply different technologies and
 ## 🌍 Live Projects
 
 - **Single Page CV**  
-  URL: https://page-cv.netlify.app/  
+  https://page-cv.netlify.app/  
   Description: A one-page résumé designed with SEO and social media optimization in mind.  
   Tech Stack: HTML, CSS  
 
