@@ -1,45 +1,26 @@
 # 🚀 Roadmap Projects
 
-![GitHub repo size](https://img.shields.io/github/repo-size/juligz/roadmap-projects?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/juligz/roadmap-projects?color=green)
-![GitHub license](https://img.shields.io/github/license/juligz/roadmap-projects?color=yellow)
-![Status](https://img.shields.io/badge/status-in%20progress-orange)
-
-A collection of projects built by following the [roadmap.sh](https://roadmap.sh/) guides, organized by development area.  
-This repository serves as my **practice portfolio**, where I apply different technologies and methodologies.
+This repository contains the projects I’m building while following the [roadmap.sh](https://roadmap.sh/) guides.  
+It serves as my **practice portfolio**, where I apply different technologies and workflows as I progress.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Categories
 
-- **Frontend** → Projects using HTML, CSS, JavaScript, or frontend frameworks.  
-- **Backend** → Projects using Node.js, APIs, databases, or other server-side environments.  
-- **Fullstack** → Projects combining both frontend and backend.  
-- **Others** → Scripts, utilities, or experiments that don’t fit into the previous categories.
+- **Frontend** → HTML, CSS, JavaScript, and frameworks.  
+- **Backend** → Node.js, APIs, databases.  
+- **Fullstack** → A mix of frontend and backend projects.  
+- **Miscellaneous** → Utilities, small experiments, or scripts.
 
 ---
 
-## 📑 Project Index
+## 🌍 Live Projects
 
-### 🖌 Frontend
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| https://page-cv.netlify.app/ | Single-page CV optimized for SEO and social media. | HTML, CSS |
+- **Single Page CV**  
+  URL: https://page-cv.netlify.app/  
+  Description: A one-page résumé designed with SEO and social media optimization in mind.  
+  Tech Stack: HTML, CSS  
 
-### ⚙ Backend
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| *(Coming soon)* | | |
-
-### 🌐 Fullstack
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| *(Coming soon)* | | |
-
-### 🛠 Others
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| *(Coming soon)* | | |
 
 ---
 
